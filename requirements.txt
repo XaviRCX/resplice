@@ -1,0 +1,2 @@
+# Audio downloading; FFmpeg / ffprobe must be installed separately.
+yt-dlp>=2026.8.19
